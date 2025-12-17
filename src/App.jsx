@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Github, Linkedin, Instagram, Mail, Smartphone, ExternalLink, Gamepad2 } from 'lucide-react';
 
-import ThreeScene from './components/ThreeBackground';
+import ThreeScene from './components/Background3D';
 import SpiderGame from './components/SpiderGame';
 import AIChat from './components/AIChat';
 
